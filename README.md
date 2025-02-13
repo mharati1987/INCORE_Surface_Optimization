@@ -17,3 +17,7 @@ This repository contains a Python script for **fitting fragility functions** and
 
 ## How to Use:
 1. Install dependencies:
+
+   
+## Citation:
+- Harati & van de Lindt (2024) - Engineering Structures.
